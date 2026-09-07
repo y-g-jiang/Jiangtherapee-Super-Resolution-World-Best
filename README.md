@@ -1,8 +1,8 @@
 # JSR
 
-JSR 将 RAW 连拍重建为高分辨率线性 RGB，面向高动态摄影，重点约束暗部亮度、颜色响应与周期伪影。4 至 14 帧连拍均可获得良好的重建效果。更高帧数暂不被支持。
+JSR 将 RAW 连拍重建为高分辨率线性 RGB，面向高动态摄影，重点约束暗部亮度、颜色响应与周期伪影。4 至 14 帧连拍均可获得良好的重建效果，拍摄时候为防止对焦抖动影响效果建议AF-S来连拍，或者MF后连续单张拍摄。更高帧数暂不被支持。
 
-JSR reconstructs RAW bursts into high-resolution linear RGB for high dynamic range photography, with explicit control of shadow brightness, color response, and periodic artifacts. Bursts of 4 to 14 frames can all yield good reconstruction results. Bursts longer than 14 frames are not currently supported.
+JSR reconstructs RAW bursts into high-resolution linear RGB for high dynamic range photography, with explicit control of shadow brightness, color response, and periodic artifacts. Bursts of 4 to 14 frames can all yield good reconstruction results. When shooting, to prevent focus jitter from affecting the results, it is recommended to use AF-S for burst shooting, or switch to MF and take consecutive single shots. Bursts longer than 14 frames are not currently supported.
 
 [下载 EXE / Download EXE](https://github.com/y-g-jiang/Jiangtherapee-Super-Resolution-World-Best/releases/latest) · [仅需四张 / Just four frames](#burst-examples) · [高张数对比 / Longer bursts](#longer-bursts) · [论文实验图 / Paper comparisons](#paper-comparisons) · [连续数据流 / Data flow](#data-flow) · [中文介绍](#chinese) · [English](#english) · [论文 / Paper](#paper)
 
