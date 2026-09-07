@@ -44,9 +44,9 @@ https://github.com/y-g-jiang/Jiangtherapee-Super-Resolution-World-Best/releases/
 Direct source download:
 https://github.com/y-g-jiang/Jiangtherapee-Super-Resolution-World-Best/releases/download/v9.8/JSR_LibRaw_Corresponding_Source.zip
 
-The Windows ZIP distributions include this source archive and the notices.
-When redistributing a standalone EXE, also provide these notices and the
-corresponding source or its source-download location.
+The release assets include this source archive and the notices alongside the
+standalone EXE. When redistributing the EXE, also provide these notices and
+the corresponding source or its source-download location.
 
 LibRaw's copyright and additional source-file notices are reproduced in
 COPYRIGHT and LibRaw-component-notices.txt. The full license texts govern.
@@ -69,7 +69,7 @@ rawpy 仍采用 MIT 许可证，其他依赖分别遵循随附的许可证。
 
 上述两个 Release 均提供 JSR_LibRaw_Corresponding_Source.zip，包含所用的
 两版 LibRaw 源码、实际 Nikon HE 补丁、rawpy 源码、构建文件及许可材料。
-带 LibRaw 许可材料的 Windows ZIP 已一并包含该源码包。转发单独的 EXE 时，
+Release 资产会在独立 EXE 旁提供该源码包和许可材料。转发单独的 EXE 时，
 请同时提供许可材料及对应源码或源码下载位置。
 
 这些许可仅适用于所列 RAW 解码组件，不改变 JSR 网络、权重、配准、四次场、
