@@ -1,0 +1,157 @@
+{
+  "minimum_k": 1,
+  "maximum_k": 14,
+  "count_reference_k": 14,
+  "tta_codes": [
+    0
+  ],
+  "static_affine": "local_v7_static_affine_v1.npz",
+  "routes": {
+    "1": {
+      "controller": "v97_k01_controller_wgpu.npz",
+      "refinenet": "v97_k01_rarm_wgpu.npz"
+    },
+    "2": {
+      "controller": "v97_k02_controller_wgpu.npz",
+      "refinenet": "v97_k02_rarm_wgpu.npz"
+    },
+    "3": {
+      "controller": "v97_k03_controller_wgpu.npz",
+      "refinenet": "v97_k03_rarm_wgpu.npz"
+    },
+    "4": {
+      "controller": "v97_k04_controller_wgpu.npz",
+      "refinenet": "v97_k04_rarm_wgpu.npz"
+    },
+    "5": {
+      "controller": "v97_k05_controller_wgpu.npz",
+      "refinenet": "v97_k05_rarm_wgpu.npz"
+    },
+    "6": {
+      "controller": "v97_k06_controller_wgpu.npz",
+      "refinenet": "v97_k06_rarm_wgpu.npz"
+    },
+    "7": {
+      "controller": "v97_k07_controller_wgpu.npz",
+      "refinenet": "v97_k07_rarm_wgpu.npz"
+    },
+    "8": {
+      "controller": "v97_k08_controller_wgpu.npz",
+      "refinenet": "v97_k14_rarm_wgpu.npz"
+    },
+    "9": {
+      "controller": "v97_k09_controller_wgpu.npz",
+      "refinenet": "v97_k14_rarm_wgpu.npz"
+    },
+    "10": {
+      "controller": "v97_k10_controller_wgpu.npz",
+      "refinenet": "v97_k14_rarm_wgpu.npz"
+    },
+    "11": {
+      "controller": "v97_k11_controller_wgpu.npz",
+      "refinenet": "v97_k14_rarm_wgpu.npz"
+    },
+    "12": {
+      "controller": "v97_k12_controller_wgpu.npz",
+      "refinenet": "v97_k14_rarm_wgpu.npz"
+    },
+    "13": {
+      "controller": "v97_k14_controller_wgpu.npz",
+      "refinenet": "v97_k14_rarm_wgpu.npz"
+    },
+    "14": {
+      "controller": "v97_k14_controller_wgpu.npz",
+      "refinenet": "v97_k14_rarm_wgpu.npz"
+    }
+  },
+  "files": {
+    "local_v7_static_affine_v1.npz": {
+      "sha256": "606f16a60a7738a5193de765d8408e4de810c684cddb2286aadd7cb7556854f3",
+      "bytes": 1826
+    },
+    "v97_k01_controller_wgpu.npz": {
+      "sha256": "1505dfe974dfd7c741e8343c051c60c86ed6bd72cd678259ced679266a124062",
+      "bytes": 7970610
+    },
+    "v97_k01_rarm_wgpu.npz": {
+      "sha256": "f592718d34f88a5dcf6b60be9ec4af2bc03ec6683c4942d86f4f46cd1ddad487",
+      "bytes": 8680630
+    },
+    "v97_k02_controller_wgpu.npz": {
+      "sha256": "8e8c606c0bc89e6838b8155986d86af148ac58021a06c4cac09c8527c91eeebc",
+      "bytes": 7970610
+    },
+    "v97_k02_rarm_wgpu.npz": {
+      "sha256": "6e69264769e79ed438d81ae6574ffa711e380fd9d1ad794dd32dffb24f010e15",
+      "bytes": 8680630
+    },
+    "v97_k03_controller_wgpu.npz": {
+      "sha256": "6014c5ff8dcde80b5780be4f81d7f6c984953ec5a3cb09559961f40a859d9bda",
+      "bytes": 7970610
+    },
+    "v97_k03_rarm_wgpu.npz": {
+      "sha256": "3f2d19873ad3d77ed4555952e34907661885419dbd3582eab489a89ce9c57ce1",
+      "bytes": 8680630
+    },
+    "v97_k04_controller_wgpu.npz": {
+      "sha256": "0e12ab8bcd840e74729ce91daaab89127c1c8348a2b06f8c2fa4d9ce28dbbfc0",
+      "bytes": 7970610
+    },
+    "v97_k04_rarm_wgpu.npz": {
+      "sha256": "087a55f6670ac1a55fd28fabb75d4fb4f970a4439647255d46c5e959be81a64b",
+      "bytes": 8680630
+    },
+    "v97_k05_controller_wgpu.npz": {
+      "sha256": "e2211aec8aaa55b547c1ce846fbeec4dffbfcccf03c680b4b7e996e9368907ce",
+      "bytes": 7970610
+    },
+    "v97_k05_rarm_wgpu.npz": {
+      "sha256": "a00bedc1dba05075e01038493531c60afdb7a87d585fb653f46ea0107e9f8a44",
+      "bytes": 8680630
+    },
+    "v97_k06_controller_wgpu.npz": {
+      "sha256": "2377fad89060aa94538bcef0f788feebd19bd914cb54c086b5eec4935b93f975",
+      "bytes": 7970610
+    },
+    "v97_k06_rarm_wgpu.npz": {
+      "sha256": "777c275d83b3dde7b5cdd777df47cce8006357c7bdb297f04d942f74bd7051f6",
+      "bytes": 8680630
+    },
+    "v97_k07_controller_wgpu.npz": {
+      "sha256": "7f01d53876988e4272f7d2d50f6c05a3b51b2eea209579068c79bfe1524a2ab5",
+      "bytes": 7970610
+    },
+    "v97_k07_rarm_wgpu.npz": {
+      "sha256": "e597f2d412acd574f2554b65219e2d24d4d8c06792d21430d507d824498a8be7",
+      "bytes": 8680630
+    },
+    "v97_k08_controller_wgpu.npz": {
+      "sha256": "a4a5a4e50170ff7732d2a2c579c2a4d7bd06b14a863d9474d04d722868c8909c",
+      "bytes": 7970610
+    },
+    "v97_k09_controller_wgpu.npz": {
+      "sha256": "755278cf8bda65854cd168c53f9830733a02859f8662355f2c9381db71ed6d1f",
+      "bytes": 7970610
+    },
+    "v97_k10_controller_wgpu.npz": {
+      "sha256": "d1a05c9957042900ac6abea758d7b476fced6cc5c4ed8f93ef37599bb607a8c4",
+      "bytes": 7970610
+    },
+    "v97_k11_controller_wgpu.npz": {
+      "sha256": "d9117afe86b62f1326db906e855a37a0cda89c8c6fe8627cac81d2eaa2d69303",
+      "bytes": 7970610
+    },
+    "v97_k12_controller_wgpu.npz": {
+      "sha256": "a0165f527ea60ccc0b8f8f5bd8b02758309e501c7fef9ef5e46711371913dba3",
+      "bytes": 7970610
+    },
+    "v97_k14_controller_wgpu.npz": {
+      "sha256": "4c1746a90096d20951b3121f03e6ebe966e8becc9e05b356c8dd9fb43845e424",
+      "bytes": 7970610
+    },
+    "v97_k14_rarm_wgpu.npz": {
+      "sha256": "0c4f470e1341ad9dea82d445d590d21890d1fc989a95d054e8dbd8ef1450629d",
+      "bytes": 8680630
+    }
+  }
+}
