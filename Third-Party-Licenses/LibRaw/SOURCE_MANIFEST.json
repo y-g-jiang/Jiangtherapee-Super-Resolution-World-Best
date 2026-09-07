@@ -1,0 +1,134 @@
+{
+  "applies_to": [
+    "JSR v9.7 Windows",
+    "JSR v9.8 Windows"
+  ],
+  "libraw_distribution_license": "CDDL-1.0",
+  "rawpy": {
+    "version": "0.27.0",
+    "license": "MIT",
+    "libraw_commit": "b860248a89d9082b8e0a1e202e516f46af9adb29",
+    "libraw_version": "0.22.1",
+    "libraw_cmake_commit": "6e26c9e73677dc04f9eb236a97c6a4dc225ba7e8"
+  },
+  "native_libraw": {
+    "version": "0.22.2",
+    "base_commit": "b93f6e45c194f5df9b02a43b1af9a54b4f41f33f",
+    "nikon_he_commit": "499bfd4cbf802c2fb5eac4c9a6f53bbeb776cad1",
+    "patch_sha256": "fd3def1540af46e31a6b4515338a153bb43d45c089ba0fcf0d1f71323bb698dc",
+    "patched_file_hashes_before_notice_headers": {
+      "Makefile.am": "a2f0c1e0fa213ff34fcdb25f0908d73af15f7f2606142a97aecf22ae3bfdfca6",
+      "Makefile.dist": "54307eab2178c17bc8101907f776a34d6ce3d61c34a3665f4f51d7d0bb837127",
+      "Makefile.mingw": "f69afda384daf36788c9fd7ef7513cb1ddb8496c7bdb93519c4af0a5c2a95413",
+      "Makefile.msvc": "57000561d1656adcf9517cfba4a6e222273a73d2d091fc8ecb29d5f87b6e03cb",
+      "buildfiles/libraw.pro": "bc558e7f59d1cc7691eaa59602b89d799c60ae6b169451b932795093b1361a86",
+      "buildfiles/libraw.vcxproj": "2989e997f75c11805f55a7bb601e15db45e12bf0770522eddef2e39659b97d1b",
+      "buildfiles/libraw.vcxproj.filters": "c76b0ac177be9eb8323a807b5ca94d8f75a851c102e8de3c07a291bad241e4c9",
+      "src/decoders/decoders_libraw_dcrdefs.cpp": "83f54dd8460cbc48d30edabc84ebbf7d9fb4e8736d5b2ffbf5ff111c00c2334b",
+      "src/decoders/nikon_he/nikon_he_bayer.cpp": "84ba16e24c71717bd81c3c3cc9878be2dddd6d603d4f7e2806a785b5ea747f06",
+      "src/decoders/nikon_he/nikon_he_bayer.h": "45f917b5c78cd32c59ee7db85ea90a5437da605a1d62be70a2c89f8eb6ca04c1",
+      "src/decoders/nikon_he/nikon_he_bit_reader.cpp": "c6373a945756b448c310612d2137a6e7fe9a5a7f12fc31b9080fc4e2861075e2",
+      "src/decoders/nikon_he/nikon_he_bit_reader.h": "edd3ed0bf38abcad305c470808d7c22b75c2f9c5d48a29b1e9d2a499f45f5e6c",
+      "src/decoders/nikon_he/nikon_he_coefficient_decode.cpp": "37ccd1a3663261f5c7b1c8dcfa435ee46f3d0c5446c380451207dd186374164d",
+      "src/decoders/nikon_he/nikon_he_coefficient_decode.h": "5050e4848bcbf4e7a4f141c59f9c3d21ae6ae3bb925b0ca0701f9e590e03c139",
+      "src/decoders/nikon_he/nikon_he_decode.cpp": "1a60efee73ee515346a942bbb3de65a77b17a1d3676932a1a68e086bd41e50ab",
+      "src/decoders/nikon_he/nikon_he_decode.h": "8b7920154e594fb3640476ca2e3704cff71c8700844461ddf473538770102b6c",
+      "src/decoders/nikon_he/nikon_he_dequantize.cpp": "167867512d687e16cebe740cf134b40cd42ca5cb85d23667cb7009da633966b5",
+      "src/decoders/nikon_he/nikon_he_dequantize.h": "92a619d1f6e69abe215cf59a986fa34aa039b87d13e96a42eadd8a1d49f9e31e",
+      "src/decoders/nikon_he/nikon_he_gcli_decode.cpp": "ed19a6246887ea13c92155031e25d185f41b24151f41df69ff475597aff92f8d",
+      "src/decoders/nikon_he/nikon_he_gcli_decode.h": "a05d55fe4a2f4605a9d143b1fd83f707516607f02caa45768fc977703da50e49",
+      "src/decoders/nikon_he/nikon_he_gtli_table.cpp": "ac967b6264bd37382e0fe874bcac17e3b378121956f8036bf1518225b9787d2e",
+      "src/decoders/nikon_he/nikon_he_gtli_table.h": "0f2cc79abfbe9d18d848e6bc3dae4b28a7f1a4be9e9ddc84403d73df7c73d93a",
+      "src/decoders/nikon_he/nikon_he_idwt_horizontal.cpp": "349d75f55f72ab6318263d8046c496d493fd2a4f1409fa5f5b2c07c4034ba4e2",
+      "src/decoders/nikon_he/nikon_he_idwt_horizontal.h": "a4b3abbd9db60602100e1297edefaa7dbf0f488e78f752f05a8847a30da5d247",
+      "src/decoders/nikon_he/nikon_he_idwt_vertical.cpp": "d4c9b0bd056d7dba775e43a9c9e0e4b7641e5cd8da2c75d727866f8bedbf6476",
+      "src/decoders/nikon_he/nikon_he_idwt_vertical.h": "51fe84033b435ad6355d449facdf382ddb650e25ad427487187e6639c4f12bbd",
+      "src/decoders/nikon_he/nikon_he_iqx_iqp_lut_data.h": "ee0e8e62cbbc7319f4492f799aeb5b6fcfefaeecd9783fe9e86db6c654fad743",
+      "src/decoders/nikon_he/nikon_he_picture_header.cpp": "39480e33080a1d79aaddc8134a174667e28b8e4a135c25a9fdcc6f745bf76582",
+      "src/decoders/nikon_he/nikon_he_picture_header.h": "d3e52133a286ff486167d90b8d59a106cbfe5f620592031afb40791e47a0ba59",
+      "src/decoders/nikon_he/nikon_he_precinct_decode.cpp": "8294936de5c364dc22a568fafe4cf2e58a2eb184abf68255230a1bfb9a2a5b5a",
+      "src/decoders/nikon_he/nikon_he_precinct_decode.h": "0920b302f4253d308938fec3b55c6cbe95a0b2509206831c0884bc0265099867",
+      "src/decoders/nikon_he/nikon_he_precinct_header.cpp": "4ec3c3e7c1f1e6d8aeacac8f76ac8a28427f4f6d5492089e82c8054acf222df8",
+      "src/decoders/nikon_he/nikon_he_precinct_header.h": "68c0575b35266d2be3e1718779759c1908aaa2eb80cf094a1480ba8207ed439b",
+      "src/decoders/nikon_he/nikon_he_predecessor.cpp": "95bf9a8b9be341b32c30d1ea8dd228232b7a71da356a68d9dece9c020fac264d",
+      "src/decoders/nikon_he/nikon_he_predecessor.h": "7b6227738651182e97328bdaeec34567fd4647caf8aae97f51242da8394ff49d",
+      "src/decoders/nikon_he/nikon_he_predict_lut.cpp": "fe263ebe3730586d98a52a9ecc02a5ae30949fb2216a4b288a0c1a01fa3b8b51",
+      "src/decoders/nikon_he/nikon_he_predict_lut.h": "4a3649d3eb32f67d5f84942964ece729139ebf20baff077e60a043700769b1f7",
+      "src/decoders/nikon_he/nikon_he_subband_config.cpp": "d181ff32cb15936806ca3e4b7cd4c2765e9622f81d1df315e40b784199f512ab",
+      "src/decoders/nikon_he/nikon_he_subband_config.h": "634e6c2d4a1d4548461f697072b283cbd29f012eee0e9e3b1ff406620feae348",
+      "src/decoders/nikon_he/nikon_he_tile.cpp": "3e49f82f2fad1524a4e0c23066e4ed4da2a8e1f298294cfaa36a6bc5039ccb54",
+      "src/decoders/nikon_he/nikon_he_tile.h": "839fe6d55e19329bb5a57d6d6deb247854fc46cd6defd1c86c0b0d936b37288a",
+      "src/decoders/nikon_he_decoder.cpp": "9e745215f54a01bfc2651a554d64a094460deb04765b28ccf8664b0eee97a918",
+      "src/metadata/tiff.cpp": "236a34c20d3a22f385e19aa3d9e41ff09b13087277148d48063e503e922f3a22",
+      "src/tables/cameralist.cpp": "ad1331a96b0b634f9a96169bb9aae1652c2c1dec8cfb537d3da019e1c55708d7"
+    }
+  },
+  "windows_decoder_binaries": {
+    "rawpy/raw_r.dll": "beedec9b907b987da72d7bc365f6c3f4e1f4532c9f95692fdf10c376df654c3a",
+    "rawpy/_rawpy.cp310-win_amd64.pyd": "fa2406bf05cdc68cf583d8d0bd1bd04efe11484813e493daf16a87e22c93eea0",
+    "libraw_joraw2_native/srhq_joraw2.dll": "99c5b8fc79c43955914c956a54655fd15fbe9824d25228918f5f1e9df1685722"
+  },
+  "source_downloads": [
+    {
+      "file": "rawpy-0.27.0.tar.gz",
+      "url": "https://files.pythonhosted.org/packages/86/15/92324724209650167c8c8b0c8c0006c99d07494b9b41f7d6435a37737323/rawpy-0.27.0.tar.gz",
+      "bytes": 560718,
+      "sha256": "45251e46c1d891a62919a4ac200a9828f825e3c59f89cea2f1daee0900ff15ec"
+    },
+    {
+      "file": "LibRaw-0.22.1-b860248.tar.gz",
+      "url": "https://codeload.github.com/LibRaw/LibRaw/tar.gz/b860248a89d9082b8e0a1e202e516f46af9adb29",
+      "bytes": 605244,
+      "sha256": "f5da1e522ea195b54b30f3ff105ef2193daa04ea165dea825b4d6fe9d886395b"
+    },
+    {
+      "file": "LibRaw-0.22.2-b93f6e4.tar.gz",
+      "url": "https://codeload.github.com/LibRaw/LibRaw/tar.gz/b93f6e45c194f5df9b02a43b1af9a54b4f41f33f",
+      "bytes": 610736,
+      "sha256": "95df0a1e14ada99595632ca4556082fe4653cf74ce21ebdfb2f1d8729cab323d"
+    },
+    {
+      "file": "LibRaw-cmake-6e26c9e.tar.gz",
+      "url": "https://codeload.github.com/LibRaw/LibRaw-cmake/tar.gz/6e26c9e73677dc04f9eb236a97c6a4dc225ba7e8",
+      "bytes": 14141,
+      "sha256": "d0ecc870bb395ca05d4de61314d092437bb37afac1e17131cc64c58e57369a11"
+    },
+    {
+      "file": "rawpy-v0.27.0-git.tar.gz",
+      "url": "https://codeload.github.com/letmaik/rawpy/tar.gz/v0.27.0",
+      "bytes": 76016541,
+      "sha256": "b358436281cb462e612f0fb363530de1ccaa1447fe53de3df3552be53aeccd0d"
+    },
+    {
+      "file": "zlib-1.3.1.tar.gz",
+      "url": "https://codeload.github.com/madler/zlib/tar.gz/v1.3.1",
+      "bytes": 1572744,
+      "sha256": "17e88863f3600672ab49182f217281b6fc4d3c762bde361935e436a95214d05c"
+    },
+    {
+      "file": "libjpeg-turbo-3.1.0.tar.gz",
+      "url": "https://codeload.github.com/libjpeg-turbo/libjpeg-turbo/tar.gz/3.1.0",
+      "bytes": 2507094,
+      "sha256": "35fec2e1ddfb05ecf6d93e50bc57c1e54bc81c16d611ddf6eff73fff266d8285"
+    },
+    {
+      "file": "jasper-4.2.4.tar.gz",
+      "url": "https://codeload.github.com/jasper-software/jasper/tar.gz/version-4.2.4",
+      "bytes": 1987060,
+      "sha256": "23a3d58cdeacf3abdf9fa1d81dcefee58da6ab330940790c0f27019703bfd2cd"
+    },
+    {
+      "file": "lcms-2.16.tar.gz",
+      "url": "https://codeload.github.com/mm2/Little-CMS/tar.gz/lcms2.16",
+      "bytes": 7595799,
+      "sha256": "cb4bf968aa66e3d5d16d1f094a99595966d4330cbd6be46c66129f2747ad2b0d"
+    }
+  ],
+  "excluded_jsr_components": [
+    "registration",
+    "quartic residual field",
+    "reconstruction application wrappers",
+    "GUI",
+    "proprietary native bridge"
+  ]
+}

@@ -1,0 +1,2625 @@
+LibRaw source copyright and permission notices
+
+internal/dcraw_defs.h
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+internal/dcraw_fileio_defs.h
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+internal/defines.h
+/*
+  Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+   This file is generated from Dave Coffin's dcraw.c
+   dcraw.c -- Dave Coffin's raw photo decoder
+   Copyright 1997-2010 by Dave Coffin, dcoffin a cybercom o net
+
+   Look into dcraw homepage (probably http://cybercom.net/~dcoffin/dcraw/)
+   for more information
+*/
+
+internal/dmp_include.h
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+internal/libraw_cameraids.h
+/* -*- C++ -*-
+ * File: internal/libraw_cameraids.h
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sat Aug  17, 2020
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+internal/libraw_cxx_defs.h
+/* -*- C++ -*-
+ * File: internal/libraw_cxx_defs.h
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sat Aug  17, 2020
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+internal/libraw_internal_funcs.h
+/* -*- C++ -*-
+ * File: libraw_internal_funcs.h
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sat Mar  14, 2008
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+internal/losslessjpeg.h
+/* -*- C++ -*-
+ * File: huffmandec.h
+ * Copyright (C) 2024-2025 Alex Tutubalin, LibRaw LLC
+ *
+   Lossless JPEG decoder
+
+   Code partially backported from DNGLab's rust code
+   DNGLab was originally created in 2021 by Daniel Vogelbacher.
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+internal/var_defines.h
+/* -*- C++ -*-
+ * File: var_defines.h
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sat Mar  8, 2008
+ *
+ * LibRaw redefinitions of dcraw internal variables
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+internal/x3f_tools.h
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+ */
+
+internal/x3f_tools.h
+/* Library for accessing X3F Files
+----------------------------------------------------------------
+BSD-style License
+----------------------------------------------------------------
+
+* Copyright (c) 2010, Roland Karlsson (roland@proxel.se)
+* All rights reserved.
+*
+* Redistribution and use in source and binary forms, with or without
+* modification, are permitted provided that the following conditions are met:
+*     * Redistributions of source code must retain the above copyright
+*       notice, this list of conditions and the following disclaimer.
+*     * Redistributions in binary form must reproduce the above copyright
+*       notice, this list of conditions and the following disclaimer in the
+*       documentation and/or other materials provided with the distribution.
+*     * Neither the name of the organization nor the
+*       names of its contributors may be used to endorse or promote products
+*       derived from this software without specific prior written permission.
+*
+* THIS SOFTWARE IS PROVIDED BY ROLAND KARLSSON ''AS IS'' AND ANY
+* EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+* WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+* DISCLAIMED. IN NO EVENT SHALL ROLAND KARLSSON BE LIABLE FOR ANY
+* DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+* (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+* LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+* ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+* (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+* SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+*/
+
+libraw/libraw.h
+/* -*- C++ -*-
+ * File: libraw.h
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sat Mar  8, 2008
+ *
+ * LibRaw C++ interface
+ *
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+*/
+
+libraw/libraw_alloc.h
+/* -*- C++ -*-
+ * File: libraw_alloc.h
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sat Mar  22, 2008
+ *
+ * LibRaw C++ interface
+ *
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+libraw/libraw_const.h
+/* -*- C++ -*-
+ * File: libraw_const.h
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sat Mar  8 , 2008
+ * LibRaw error codes
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+libraw/libraw_datastream.h
+/* -*- C -*-
+ * File: libraw_datastream.h
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sun Jan 18 13:07:35 2009
+ *
+ * LibRaw Data stream interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+libraw/libraw_internal.h
+/* -*- C++ -*-
+ * File: libraw_internal.h
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sat Mar  8 , 2008
+ *
+ * LibRaw internal data structures (not visible outside)
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+libraw/libraw_types.h
+/* -*- C++ -*-
+ * File: libraw_types.h
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sat Mar  8 , 2008
+ *
+ * LibRaw C data structures
+ *
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+libraw/libraw_version.h
+/* -*- C++ -*-
+ * File: libraw_version.h
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Mon Sept  8, 2008
+ *
+ * LibRaw C++ interface
+ *
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+(See the file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+(See the file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+samples/4channels.cpp
+/* -*- C++ -*-
+ * File: 4channels.cpp
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Mon Feb 09, 2009
+ *
+ * LibRaw sample
+ * Generates 4 TIFF file from RAW data, one file per channel
+ *
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+
+ */
+
+samples/dcraw_emu.cpp
+/* -*- C++ -*-
+ * File: dcraw_emu.cpp
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sun Mar 23,   2008
+ *
+ * LibRaw simple C++ API sample: almost complete dcraw emulator
+ *
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+
+ */
+
+samples/mem_image_sample.cpp
+/* -*- C++ -*-
+ * File: mem_image.cpp
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ *
+ * LibRaw mem_image/mem_thumb API test. Results should be same (bitwise) to
+dcraw [-4] [-6] [-e]
+ * Testing note: for ppm-thumbnails you should use dcraw -w -e for thumbnail
+extraction
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+
+ */
+
+samples/multirender_test.cpp
+/* -*- C++ -*-
+ * File: multirender_test.cpp
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Jul 10, 2011
+ *
+ * LibRaw simple C++ API:  creates 8 different renderings from 1 source file.
+The 1st and 4th one should be identical
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+
+ */
+
+samples/openbayer_sample.cpp
+/* -*- C++ -*-
+ * File: openvayer_sample.cpp
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Feb 11, 2020
+ *
+ * LibRaw simple C++ API:  opens bayer data (Kodak KAI-0340 sensor) from buffer,
+dump as 8-bit tiff
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+samples/postprocessing_benchmark.cpp
+/* -*- C++ -*-
+ * File: postprocessing_benchmark.cpp
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Jul 13, 2011
+ *
+ * LibRaw simple C++ API:  creates 8 different renderings from 1 source file.
+The 1st and 4th one should be identical
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+samples/raw-identify.cpp
+/* -*- C++ -*-
+ * File: identify.cpp
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sat Mar  8, 2008
+ *
+ * LibRaw C++ demo: emulates dcraw -i [-v]
+ *
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+
+ */
+
+samples/rawtextdump.cpp
+/* -*- C++ -*-
+ * File: raw2text.cpp
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sun Sept 01, 2020
+ *
+ * LibRaw sample
+ * Dumps (small) selection of RAW data to text file
+ *
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+
+ */
+
+samples/simple_dcraw.cpp
+/* -*- C++ -*-
+ * File: simple_dcraw.cpp
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sat Mar  8, 2008
+ *
+ * LibRaw simple C++ API:  emulates call to "dcraw  [-D]  [-T] [-v] [-e] [-4]"
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+
+ */
+
+samples/unprocessed_raw.cpp
+/* -*- C++ -*-
+ * File: unprocessed_raw.cpp
+ * Copyright 2009-2025 LibRaw LLC (info@libraw.org)
+ * Created: Fri Jan 02, 2009
+ *
+ * LibRaw sample
+ * Generates unprocessed raw image: with masked pixels and without black
+subtraction
+ *
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/libraw_c_api.cpp
+/* -*- C++ -*-
+ * File: libraw_c_api.cpp
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ * Created: Sat Mar  8 , 2008
+ *
+ * LibRaw C interface
+
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/libraw_datastream.cpp
+/* -*- C++ -*-
+ * File: libraw_datastream.cpp
+ * Copyright 2008-2025 LibRaw LLC (info@libraw.org)
+ *
+ * LibRaw C++ interface (implementation)
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+*/
+
+src/decoders/canon_600.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/crx.cpp
+/* -*- C++ -*-
+ * File: crx.cpp
+ * Copyright (C) 2018-2019 Alexey Danilchenko
+ * Copyright (C) 2019 Alex Tutubalin, LibRaw LLC
+ *
+   Canon CR3 file decoder
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/decoders_dcraw.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/decoders_libraw.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2022 LibRaw LLC (info@libraw.org)
+ *
+ * PhaseOne IIQ-Sv2 decoder is inspired by code provided by Daniel Vogelbacher <daniel@chaospixel.com>
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/dng.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/fp_dng.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/fuji_compressed.cpp
+/* -*- C++ -*-
+ * File: libraw_fuji_compressed.cpp
+ * Copyright (C) 2016-2019 Alexey Danilchenko
+ *
+ * Adopted to LibRaw by Alex Tutubalin, lexa@lexa.ru
+ * LibRaw Fujifilm/compressed decoder
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/generic.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/kodak_decoders.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/load_mfbacks.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/olympus14.cpp
+/* -*- C++ -*-
+ * File: pana8.cpp
+ * Copyright (C) 2024-2025 Alex Tutubalin, LibRaw LLC
+ *
+   Olympus/OM System 12/14-bit file decoder
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/pana8.cpp
+/* -*- C++ -*-
+ * File: pana8.cpp
+ * Copyright (C) 2022 Alex Tutubalin, LibRaw LLC
+ *
+   Panasonic RawFormat=8 file decoder
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/smal.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/sonycc.cpp
+/* -*- C++ -*-
+ * File: sonycc.cpp
+ * Copyright (C) 2024-2025 Alex Tutubalin, LibRaw LLC
+ *
+   Sony YCC (small/medium lossy compressed) decoder
+
+   Code partially backported from DNGLab's rust code
+   DNGLab was originally created in 2021 by Daniel Vogelbacher.
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/unpack.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/unpack_thumb.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/decoders_libraw_dcrdefs.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he_decoder.cpp
+/* -*- C++ -*-
+ * File: nikon_he_decoder.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon Z9 High-Efficiency RAW decoder LibRaw integration glue
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_bayer.cpp
+/* -*- C++ -*-
+ * File: nikon_he_bayer.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE Bayer reconstruction implementation
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_bayer.h
+/* -*- C++ -*-
+ * File: nikon_he_bayer.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE Bayer reconstruction interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_bit_reader.cpp
+/* -*- C++ -*-
+ * File: nikon_he_bit_reader.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE bitstream reader implementation
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_bit_reader.h
+/* -*- C++ -*-
+ * File: nikon_he_bit_reader.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE bitstream reader interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_coefficient_decode.cpp
+/* -*- C++ -*-
+ * File: nikon_he_coefficient_decode.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE coefficient magnitude/sign decode implementation
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_coefficient_decode.h
+/* -*- C++ -*-
+ * File: nikon_he_coefficient_decode.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE coefficient magnitude/sign decode interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_decode.cpp
+/* -*- C++ -*-
+ * File: nikon_he_decode.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE image-level decoder implementation
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_decode.h
+/* -*- C++ -*-
+ * File: nikon_he_decode.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE image-level decoder interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_dequantize.cpp
+/* -*- C++ -*-
+ * File: nikon_he_dequantize.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE coefficient dequantization implementation
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_dequantize.h
+/* -*- C++ -*-
+ * File: nikon_he_dequantize.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE coefficient dequantization interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_gcli_decode.cpp
+/* -*- C++ -*-
+ * File: nikon_he_gcli_decode.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE GCLI (group code-length info) decode implementation
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_gcli_decode.h
+/* -*- C++ -*-
+ * File: nikon_he_gcli_decode.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE GCLI (group code-length info) decode interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_gtli_table.cpp
+/* -*- C++ -*-
+ * File: nikon_he_gtli_table.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE GTLI (greatest truncatable level info) lookup table
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_gtli_table.h
+/* -*- C++ -*-
+ * File: nikon_he_gtli_table.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE GTLI lookup table interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_idwt_horizontal.cpp
+/* -*- C++ -*-
+ * File: nikon_he_idwt_horizontal.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE horizontal inverse DWT implementation
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_idwt_horizontal.h
+/* -*- C++ -*-
+ * File: nikon_he_idwt_horizontal.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE horizontal inverse DWT interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_idwt_vertical.cpp
+/* -*- C++ -*-
+ * File: nikon_he_idwt_vertical.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE vertical inverse DWT implementation
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_idwt_vertical.h
+/* -*- C++ -*-
+ * File: nikon_he_idwt_vertical.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE vertical inverse DWT interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_iqx_iqp_lut_data.h
+/* -*- C++ -*-
+ * File: nikon_he_iqx_iqp_lut_data.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE step1/step2 tone-curve table (PWL-defined)
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_precinct_decode.cpp
+/* -*- C++ -*-
+ * File: nikon_he_precinct_decode.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE per-precinct entropy decode implementation
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_precinct_decode.h
+/* -*- C++ -*-
+ * File: nikon_he_precinct_decode.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE per-precinct entropy decode interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_precinct_header.cpp
+/* -*- C++ -*-
+ * File: nikon_he_precinct_header.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE precinct header parser implementation
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_precinct_header.h
+/* -*- C++ -*-
+ * File: nikon_he_precinct_header.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE precinct header parser interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_predecessor.cpp
+/* -*- C++ -*-
+ * File: nikon_he_predecessor.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE cross-precinct GCLI predecessor state
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_predecessor.h
+/* -*- C++ -*-
+ * File: nikon_he_predecessor.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE cross-precinct GCLI predecessor state interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_predict_lut.cpp
+/* -*- C++ -*-
+ * File: nikon_he_predict_lut.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE prediction lookup table builder
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_predict_lut.h
+/* -*- C++ -*-
+ * File: nikon_he_predict_lut.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE prediction lookup table interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_subband_config.cpp
+/* -*- C++ -*-
+ * File: nikon_he_subband_config.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE sub-band layout configuration implementation
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_subband_config.h
+/* -*- C++ -*-
+ * File: nikon_he_subband_config.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE sub-band layout configuration interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_tile.cpp
+/* -*- C++ -*-
+ * File: nikon_he_tile.cpp
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE per-tile decode orchestration implementation
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decoders/nikon_he/nikon_he_tile.h
+/* -*- C++ -*-
+ * File: nikon_he_tile.h
+ * Copyright (C) 2026 Dmitri Sotnikov
+ *
+   Nikon HE per-tile decode orchestration interface
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/decompressors/losslessjpeg.cpp
+/* -*- C++ -*-
+ * File: huffmandec.cpp
+ * Copyright (C) 2024-2025 Alex Tutubalin, LibRaw LLC
+ *
+   Lossless JPEG decoder
+
+   Code partially backported from DNGLab's rust code
+   DNGLab was originally created in 2021 by Daniel Vogelbacher.
+
+LibRaw is free software; you can redistribute it and/or modify
+it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/demosaic/aahd_demosaic.cpp
+/* -*- C++ -*-
+ * File: aahd_demosaic.cpp
+ * Copyright 2013 Anton Petrusevich
+ * Created: Wed May  15, 2013
+ *
+ * This code is licensed under one of two licenses as you choose:
+ *
+ * 1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+ *    (See file LICENSE.LGPL provided in LibRaw distribution archive for
+ * details).
+ *
+ * 2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+ *    (See file LICENSE.CDDL provided in LibRaw distribution archive for
+ * details).
+ *
+ */
+
+src/demosaic/ahd_demosaic.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/demosaic/dcb_demosaic.cpp
+/*
+ *    Copyright (C) 2010,  Jacek Gozdz (cuniek@kft.umcs.lublin.pl)
+ *
+ *    This code is licensed under a (3-clause) BSD license as follows :
+ *
+ *    Redistribution and use in source and binary forms, with or without
+ *    modification, are permitted provided that the following
+ *	  conditions are met:
+ *
+ *    * Redistributions of source code must retain the above copyright
+ *      notice, this list of conditions and the following disclaimer.
+ *    * Redistributions in binary form must reproduce the above
+ *      copyright notice, this list of conditions and the following
+ *		disclaimer in the documentation and/or other materials provided
+ * 	    with the distribution.
+ *    * Neither the name of the author nor the names of its
+ *      contributors may be used to endorse or promote products
+ * 		derived from this software without specific prior written permission.
+ *
+ *    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ *    "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ *    LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+ * 	  FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
+ * 	  THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+ * 	  INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ * 	  (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ * 	  SERVICES; LOSS OF USE,
+ *    DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ * 	  ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+ *	  OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+ * 	  OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
+ *    OF SUCH DAMAGE.
+ */
+
+src/demosaic/dht_demosaic.cpp
+/* -*- C++ -*-
+ * File: dht_demosaic.cpp
+ * Copyright 2013 Anton Petrusevich
+ * Created: Tue Apr  9, 2013
+ *
+ * This code is licensed under one of two licenses as you choose:
+ *
+ * 1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+ *    (See file LICENSE.LGPL provided in LibRaw distribution archive for
+ * details).
+ *
+ * 2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+ *    (See file LICENSE.CDDL provided in LibRaw distribution archive for
+ * details).
+ *
+ */
+
+src/demosaic/misc_demosaic.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/demosaic/xtrans_demosaic.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/integration/dngsdk_glue.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/integration/rawspeed_glue.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/adobepano.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/canon.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/ciff.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/cr3_parser.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/epson.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/exif_gps.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/fuji.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/hasselblad_model.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/identify.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/identify_tools.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/kodak.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/leica.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/makernotes.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/mediumformat.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/minolta.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/misc_parsers.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/nikon.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/normalize_model.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/olympus.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/p1.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/pentax.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/samsung.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/sony.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/metadata/tiff.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/postprocessing/aspect_ratio.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/postprocessing/dcraw_process.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/postprocessing/mem_image.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/postprocessing/postprocessing_aux.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/postprocessing/postprocessing_ph.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ Placeholder functions to build LibRaw w/o postprocessing tools
+ 
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/postprocessing/postprocessing_utils.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/postprocessing/postprocessing_utils_dcrdefs.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/preprocessing/ext_preprocess.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/preprocessing/preprocessing_ph.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ Placeholder functions to build LibRaw w/o postprocessing 
+ and preprocessing calls
+ 
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/preprocessing/raw2image.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/preprocessing/subtract_black.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/tables/colorconst.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/tables/colordata.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/tables/wblists.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/tables/cameralist.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/utils/curves.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/utils/decoder_info.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/utils/init_close_utils.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/utils/open.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/utils/phaseone_processing.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/utils/read_utils.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/utils/thumb_utils.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/utils/utils_dcraw.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/utils/utils_libraw.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/write/apply_profile.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/write/file_write.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/write/tiff_writer.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ LibRaw uses code from dcraw.c -- Dave Coffin's raw photo decoder,
+ dcraw.c is copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net.
+ LibRaw do not use RESTRICTED code from dcraw.c
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/write/write_ph.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+ Placeholder functions to build LibRaw w/o postprocessing 
+ and preprocessing calls
+ 
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+
+ */
+
+src/x3f/x3f_parse_process.cpp
+/* -*- C++ -*-
+ * Copyright 2019-2025 LibRaw LLC (info@libraw.org)
+ *
+
+ LibRaw is free software; you can redistribute it and/or modify
+ it under the terms of the one of two licenses as you choose:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+   (See file LICENSE.LGPL provided in LibRaw distribution archive for details).
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+   (See file LICENSE.CDDL provided in LibRaw distribution archive for details).
+ */
+
+src/x3f/x3f_parse_process.cpp
+/* Library for accessing X3F Files
+----------------------------------------------------------------
+BSD-style License
+----------------------------------------------------------------
+
+* Copyright (c) 2010, Roland Karlsson (roland@proxel.se)
+* All rights reserved.
+*
+* Redistribution and use in source and binary forms, with or without
+* modification, are permitted provided that the following conditions are met:
+*     * Redistributions of source code must retain the above copyright
+*       notice, this list of conditions and the following disclaimer.
+*     * Redistributions in binary form must reproduce the above copyright
+*       notice, this list of conditions and the following disclaimer in the
+*       documentation and/or other materials provided with the distribution.
+*     * Neither the name of the organization nor the
+*       names of its contributors may be used to endorse or promote products
+*       derived from this software without specific prior written permission.
+*
+* THIS SOFTWARE IS PROVIDED BY ROLAND KARLSSON ''AS IS'' AND ANY
+* EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+* WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+* DISCLAIMED. IN NO EVENT SHALL ROLAND KARLSSON BE LIABLE FOR ANY
+* DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+* (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+* LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+* ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+* (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+* SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+*/
+
+src/x3f/x3f_utils_patched.cpp
+/* Library for accessing X3F Files
+----------------------------------------------------------------
+BSD-style License
+----------------------------------------------------------------
+
+* Copyright (c) 2010, Roland Karlsson (roland@proxel.se)
+* All rights reserved.
+*
+* Redistribution and use in source and binary forms, with or without
+* modification, are permitted provided that the following conditions are met:
+*     * Redistributions of source code must retain the above copyright
+*       notice, this list of conditions and the following disclaimer.
+*     * Redistributions in binary form must reproduce the above copyright
+*       notice, this list of conditions and the following disclaimer in the
+*       documentation and/or other materials provided with the distribution.
+*     * Neither the name of the organization nor the
+*       names of its contributors may be used to endorse or promote products
+*       derived from this software without specific prior written permission.
+*
+* THIS SOFTWARE IS PROVIDED BY ROLAND KARLSSON ''AS IS'' AND ANY
+* EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+* WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+* DISCLAIMED. IN NO EVENT SHALL ROLAND KARLSSON BE LIABLE FOR ANY
+* DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+* (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+* LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+* ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+* (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+* SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+*/
