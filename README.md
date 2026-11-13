@@ -1,4 +1,4 @@
-# Jiangtherapee Super Resolution 注意下文是v9.8的不是最新的v17，新版改善很多但是因为没钱了我没法训练7和14之外的张数适配
+# Jiangtherapee Super Resolution 注意上core代码权重以及下文是v9.8的不是最新的v17，新版改善很多但是因为没钱了我没法训练7和14之外的张数适配
 
 https://github.com/y-g-jiang/Support_Me_QR_Code
 
