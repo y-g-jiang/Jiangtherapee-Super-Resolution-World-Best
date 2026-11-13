@@ -24,6 +24,14 @@ Just four RAW frames produce each of the three results below. For a frame-count 
 
 Every pair shows the input view on the left and the JSR result on the right. Enlarged details appear first; expand each example for a wider view of the same area.
 
+
+#### 七张经典stormer / 均在 photoshop 中打开
+
+<img width="2824" height="1631" alt="064c489adfa95c343fc98367333be0dd" src="https://github.com/user-attachments/assets/28ff2523-0e15-4698-931f-e8b25d11e4f3" />
+
+<img width="2835" height="1636" alt="cbce21a9048c01a8f2ea77717e6c964b" src="https://github.com/user-attachments/assets/240de6fb-0cab-490a-81da-8e839fdff21a" />
+
+
 #### 窗框与细栏杆 / Window frames and narrow bars
 
 [![仅需四张：窗框与细栏杆，左侧超分前、右侧 JSR 超分后 / Just four frames: window detail, before on the left and JSR after on the right](assets/readme/burst4-windows.png)](assets/readme/burst4-windows.png)
@@ -32,17 +40,6 @@ Every pair shows the input view on the left and the JSR result on the right. Enl
 <summary>较大范围对照 / Wider view</summary>
 
 [![四张输入的窗框较大范围对照，左前右后 / Wider four-frame window comparison, before then after](assets/readme/burst4-windows-overview.png)](assets/readme/burst4-windows-overview.png)
-
-</details>
-
-#### 室外机细栅格 / Fine air-conditioner grille
-
-[![仅需四张：室外机细栅格，左侧超分前、右侧 JSR 超分后 / Just four frames: grille detail, before on the left and JSR after on the right](assets/readme/burst4-grille.png)](assets/readme/burst4-grille.png)
-
-<details>
-<summary>较大范围对照 / Wider view</summary>
-
-[![四张输入的室外机较大范围对照，左前右后 / Wider four-frame grille comparison, before then after](assets/readme/burst4-grille-overview.png)](assets/readme/burst4-grille-overview.png)
 
 </details>
 
@@ -60,17 +57,6 @@ Every pair shows the input view on the left and the JSR result on the right. Enl
 <a name="longer-bursts"></a>
 
 ### 更多帧的实拍对比 / Results from longer bursts
-
-#### 14 张：石雕纹样 / 14 frames: carved stone
-
-[![14 张输入的石雕纹样，左侧超分前、右侧 JSR 超分后 / Fourteen-frame carved-stone detail, before on the left and JSR after on the right](assets/readme/burst14-stone.png)](assets/readme/burst14-stone.png)
-
-<details>
-<summary>较大范围对照 / Wider view</summary>
-
-[![14 张输入的石雕较大范围对照，左前右后 / Wider fourteen-frame carved-stone comparison, before then after](assets/readme/burst14-stone-overview.png)](assets/readme/burst14-stone-overview.png)
-
-</details>
 
 #### 高张数：暗部结构 / Longer burst: shadow structure
 
